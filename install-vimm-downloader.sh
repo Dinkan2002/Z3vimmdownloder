@@ -6,7 +6,7 @@
 set -e
 
 INSTALL_DIR="${1:-.}/vimm-downloader"
-GITHUB_URL="https://raw.githubusercontent.com/Dinkan2002/Z3vimm/main"
+GITHUB_URL="https://raw.githubusercontent.com/Dinkan2002/Z3vimmdownloader/main"
 
 echo "========================================"
 echo "Vimm ROM Downloader Installer"
